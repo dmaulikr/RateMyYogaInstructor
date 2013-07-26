@@ -15,7 +15,7 @@ Sivalingam
 Toronto
 Ontario
 Canada
-    
+
 Courtney
 Chalfant
 Chandler
@@ -75,7 +75,7 @@ Azzaroni
 Pozzol Groppo (Al)
 INTL
 Italy
-    
+
 Hope
 Crane
 Chesapeake
@@ -129,7 +129,7 @@ Arney
 Bala
 ON
 Canada
-    
+
 Tina 
 Magrabi
 Fair Lawn
@@ -159,7 +159,7 @@ Hlavacova
 Vancouver
 BC
 Canada
-    
+
 Rachel 
 Stokoe
 New York
@@ -237,7 +237,7 @@ Komianos-Bilic
 Langley
 BC
 Canada
-    
+
 Ben 
 Easter
 
@@ -285,6 +285,7 @@ Lam
 Singapore
 INTL
 Singapore
+
 Ricky
 Tran
 Dallas
@@ -326,7 +327,7 @@ Snedden
 Mississauga
 ON
 Canada
-    
+
 Teresa 
 Diaz
 Los Angeles
@@ -338,6 +339,7 @@ Chitwood
 Dallas
 TX
 US
+
 Pamala 
 Dempsey
 Huntsville
@@ -349,6 +351,7 @@ Thonglim
 Jatujak Bangkok
 INTL
 Maldives
+
 Marina 
 Lisjonok
 Roselle
@@ -366,7 +369,7 @@ Vinsky
 Toronto
 ON
 Canada
-    
+
 Tara 
 Tomerine
 St. Petersburg
@@ -402,7 +405,7 @@ Stong
 Kingston
 ON
 Canada
-    
+
 Wendy
 Tappan
 Jacksonville
@@ -414,13 +417,13 @@ Zi
 Calgary
 AB
 Canada
-    
+
 Clara 
 Roberts-Oss
 Vancouver
 BC
 Canada
-    
+
 Shankar
 Puri
 Cherkasy
@@ -503,7 +506,7 @@ Prestia
 MISSISSAUGA
 ON
 Canada
-    
+
 Jennifer
 Martin
 West Bend
@@ -563,7 +566,7 @@ Barker
 Ottawa
 ON
 Canada
-    
+
 Gail 
 Pickens-Barger
 Port Neches
@@ -617,7 +620,7 @@ El-Amin
 Cambridge
 ON
 Canada
-    
+
 Karen
 Janowsky
 Great Mills
@@ -642,11 +645,6 @@ Jacksonville
 FL
 USA
 
-Jenny 
-Smith
-Clear Water Bay
-
-Hong Kong
 Sarah
 Suero
 Jacksonville
@@ -664,7 +662,7 @@ Podiluk
 Saskatoon
 SK
 Canada
-    
+
 Jean Marie 
 Kokhanovski
 Paia
@@ -688,6 +686,7 @@ Menting-Brown
 Utrecht
 3572
 Netherlands
+
 Damien 
 McVey
 Corona
@@ -725,9 +724,10 @@ USA
 
 Xiao Yun
 Hu
+?
 Paris
-
 France
+
 Lucy
 Lomax
 Columbia
@@ -745,7 +745,7 @@ Keiller
 Vancouver
 BC
 Canada
-    
+
 Nancy 
 Mohler
 Topanga
@@ -817,7 +817,7 @@ Vitolianos
 Calgary
 AB
 Canada
-    
+
 Emily 
 Masnoon
 Somerville
@@ -889,12 +889,13 @@ Yatsenko
 Coquitlam
 BC
 Canada
-    
+
 Tamika 
 Savory
 Sai Ying Pun
 INTL
 Hong Kong
+
 Stan
 Hubbard
 Jacksonville
@@ -937,7 +938,6 @@ Jacksonville
 FL
 USA
 
-United Kingdom
 Frank
 Markowski
 Jacksonville
@@ -1015,7 +1015,7 @@ Suzuki-Powles
 Vancouver
 BC
 Canada
-    
+
 Elizabeth
 Voetsch
 Petaluma
@@ -1087,6 +1087,7 @@ Torringhi
 Lima
 27
 Peru
+
 Debbie
 Martin
 Columbia
@@ -1134,6 +1135,7 @@ Tsai
 Luzho City
 Taipei
 Taiwan
+
 Denise
 Yager
 Crystal Lake
@@ -1163,7 +1165,7 @@ Aiello-Schmiedge
 Calgary
 AB
 Canada
-    
+
 Hazel 
 Finch
 Concord
@@ -1181,7 +1183,7 @@ Clark
 Vancouver
 BC
 Canada
-    
+
 Bethany 
 Smith
 North Augusta
@@ -1199,7 +1201,7 @@ Andreucci
 Cesena
 FC
 Italy
-    
+
 James 
 Miller
 Iowa City
@@ -1349,7 +1351,7 @@ Crawford
 Ottawa
 ON
 Canada
-    
+
 Lyndsay
 Murray-Kashoid
 Dallas
@@ -1385,6 +1387,7 @@ Vournazos
 Athens
 INTL
 Greece
+
 Shannon
 Thornton
 Dallas
@@ -1432,19 +1435,19 @@ Grushko
 Thornhill
 ON
 Canada
-    
+
 Jared 
 Sato
 St. Victoria
 BC
 Canada
-    
+
 Dorothy 
 Guerra
 Mississauga
 ON
 Canada
-    
+
 Cindy 
 Edington
 Fairport
@@ -1468,7 +1471,7 @@ Warren
 Vancouver
 BC
 Canada
-    
+
 Claire 
 Sadankas
 Lavallette
@@ -1537,8 +1540,7 @@ USA
 
 Milushe 
 Kudrnovska
-SaUSA
-lito
+Sausalito
 CA
 USA
 
@@ -1554,11 +1556,6 @@ Lafayette
 LA
 USA
 
-Dev (Darla)
-Hueske
-Cairo
-
-Egypt
 Kelly 
 Riska
 Louisville
@@ -1774,7 +1771,7 @@ Ethier
 Langdon
 AB
 Canada
-    
+
 Erica
 McLaughlin
 Jacksonville
@@ -1864,13 +1861,13 @@ Poapst
 Kemptville
 ON
 Canada
-    
+
 Julie
 Lefebvre
+?
 Ottawa
-
 Canada
-    
+
 Glenda
 Smith
 Islamorada
@@ -1966,7 +1963,7 @@ Sumpton
 Markham
 ON
 Canada
-    
+
 Michelle 
 Nuijen
 Zeewolde
@@ -2002,7 +1999,7 @@ Ferman
 Vancouver
 BC
 Canada
-    
+
 Shae
 Young
 Jacksonville
@@ -2086,7 +2083,7 @@ Finaldi
 Vancouver
 BC
 Canada
-    
+
 Mitzi 
 Connell
 Huntsville
@@ -2128,13 +2125,13 @@ Finn
 Vancouver
 BC
 Canada
-    
+
 Alison 
 Finney
 Ottawa
 ON
 Canada
-    
+
 Jessyca 
 Heinen-Collesei
 Cologne
@@ -2212,7 +2209,7 @@ McCollum
 Brampton
 ON
 Canada
-    
+
 Minori 
 Shirane
 Tokyo
@@ -2296,7 +2293,7 @@ Checknita
 Edmonton
 AB
 Canada
-    
+
 Emily 
 Bellairs
 Geneva
@@ -2314,7 +2311,7 @@ Telford
 Hamilton
 ON
 Canada
-    
+
 Colleen
 Palmateer
 Columbia
@@ -2374,7 +2371,7 @@ Chevarie
 Longueuil Quebec
 INTL
 Canada
-    
+
 Sara
 Foster
 Moscow
@@ -2416,7 +2413,7 @@ Francisco
 Okotoks
 AB
 Canada
-    
+
 Janette
 Warner
 Crystal Lake
@@ -2428,7 +2425,7 @@ Kayira
 Vancouver
 BC
 Canada
-    
+
 Mardi 
 Halvorsen
 Green Bay
@@ -2500,6 +2497,7 @@ Bohairy
 Riyadh
 11672-
 Saudi Arabia
+
 Angela
 Wagner
 Dallas
@@ -2529,6 +2527,7 @@ Swaminathan
 Chennai
 TN
 India
+
 Sheri 
 Lahris
 Newport News
@@ -2558,6 +2557,7 @@ Barkan
 Tel Aviv
 INTL
 Israel
+
 Darlene 
 Ralicki
 Harrisburg
@@ -2737,7 +2737,7 @@ Tripp
 St. Catherines
 ON
 Canada
-    
+
 Charles 
 MacInerney
 Austin
@@ -2749,19 +2749,19 @@ Garcia
 Regina
 SK
 Canada
-    
+
 Evelyn 
 Kindervater
 Ottawa
 ON
 Canada
-    
+
 Steven 
 Trowbridge
 Toronto
 ON
 Canada
-    
+
 Anna 
 Guhin
 Santa Rosa
@@ -2773,7 +2773,7 @@ Asencia
 Victoria
 BC
 Canada
-    
+
 Lisa 
 Steele
 Seattle
@@ -2792,8 +2792,7 @@ Dallas
 TX
 USA
 
-SUSA
-n 
+SUSAn 
 Crane
 Chesapeake
 VA
@@ -2846,7 +2845,7 @@ Lim
 Castlemuzio
 INTL
 Italy
-    
+
 Fred
 Alsup
 Dallas
@@ -2859,8 +2858,7 @@ Del Mar
 CA
 USA
 
-SUSA
-n 
+SUSAn 
 Spangler
 Upper Marlboro
 MD
@@ -2907,7 +2905,7 @@ Montemurro
 Burlington
 ON
 Canada
-    
+
 Indra
 Kaur
 Dallas
@@ -2979,6 +2977,7 @@ Kamhi
 Levent
 Istanbul
 Turkey
+
 Kathryn 
 Budig
 Venice
@@ -3038,6 +3037,7 @@ Wentzlick
 Berlin
 Germany
 Germany
+
 Elizabeth 
 Doyle
 Kirkland
@@ -3049,12 +3049,13 @@ Kruszelnicki
 Saskatoon SK
 INTL
 Canada
-    
+
 Vidyalakshmi 
 Thiruvenkatasamy
 Singapore
 INTL
 Singapore
+
 April 
 Billingsley
 Atlanta
@@ -3066,7 +3067,7 @@ Kube
 Aldergrove
 BC
 Canada
-    
+
 Kevan
 Gale
 Dallas
@@ -3096,6 +3097,7 @@ Banava
 Heliopolis Athens
 16346-
 Greece
+
 Leigh 
 Handel
 Pittsburgh
@@ -3107,12 +3109,13 @@ Golby
 Maple Ridge
 BC
 Canada
-    
+
 Marianthi-Despina 
 Dermata
 Thessaloniki
 INTL
 Greece
+
 Lisa
 Nersesova
 Dallas
@@ -3178,7 +3181,7 @@ Gooria
 Montreal
 QC
 Canada
-    
+
 Mimi
 Mears
 Dallas
@@ -3286,7 +3289,7 @@ Grant
 Comox
 BC
 Canada
-    
+
 Shane 
 Knox
 Springfield
@@ -3377,11 +3380,6 @@ Tyrone
 GA
 USA
 
-Anna 
-Hunt
-Atenas
-
-Costa Rica
 Tara
 Munro
 Dallas
@@ -3489,6 +3487,7 @@ Braun
 Mansfield
 TX
 US
+
 Brooke 
 Foxworthy
 Westlake Village
@@ -3500,6 +3499,7 @@ Foxx
 Mansfield
 TX
 US
+
 Myra 
 Lewin
 Kilauea
@@ -3511,6 +3511,7 @@ Weavind
 Johannesburg
 INTL
 South Africa
+
 Erin 
 Hansbrough
 Albuquerque
@@ -3522,7 +3523,7 @@ Lazer
 Montreal
 QC
 Canada
-    
+
 Sandra 
 Crittenden
 Sugarland
@@ -3546,7 +3547,7 @@ Warner
 Kingston
 ON
 Canada
-    
+
 Barbara
 Allen
 St. Petersburg
@@ -3606,7 +3607,7 @@ Lee
 Calgary
 AB
 Canada
-    
+
 Meg
 Zirm
 Margate
@@ -3636,7 +3637,7 @@ Seely
 Parksville
 BC
 Canada
-    
+
 Andrea 
 Havemann
 Riverton
@@ -3714,12 +3715,13 @@ Borbolla Elizondo
 Merida
 INTL
 Mexico
+
 Penny
 Reid
 Port Perry
 Ontario
 Canada
-    
+
 Marisa 
 Gregory
 San Francisco
@@ -3803,6 +3805,7 @@ Erhart
 Monterrey
 NL
 Mexico
+
 April
 Farrell-Hasty
 Lutz
@@ -3829,15 +3832,16 @@ USA
 
 Titus 
 Wijeratne
+?
 Colombo
-
 Sri Lanka
+
 Nancy 
 Whitticase
 Salmon Arm
 BC
 Canada
-    
+
 Carmen
 Bernal
 Easton
@@ -3897,7 +3901,7 @@ Lindner
 Canmore
 AB
 Canada
-    
+
 Lauren 
 Berkley
 New York
@@ -3951,13 +3955,13 @@ Henderson
 North Vancouver
 BC
 Canada
-    
+
 Naomi 
 Liverance
 Tobermory
 ON
 Canada
-    
+
 Sally
 Narvaez
 Allen
@@ -4029,23 +4033,25 @@ Hicks
 Windsor
 ON
 Canada
-    
+
 Barb 
 Smeltzer
 Brampton
 ON
 Canada
-    
+
 Cynthia 
 Landa
 Monterrey
 NL
 Mexico
+
 Miriam
 Fontana
 Buenos Aires
 Capital Federal
 Argentina
+
 Nauder
 Motamedi
 San Diego
@@ -4057,7 +4063,7 @@ Lu
 Saskatoon
 SK
 Canada
-    
+
 Genevieve Rohan 
 Sexty
 Tollhouse
@@ -4099,13 +4105,13 @@ Duggan
 Vancouver
 BC
 Canada
-    
+
 Colin 
 Wolpert
 Vancouver
 BC
 Canada
-    
+
 Shannon
 Garvey
 Bethesda
@@ -4129,12 +4135,7 @@ Dunphy
 Port Moody
 BC
 Canada
-    
-Laura
-Walsh
-Kildare
 
-Ireland
 Amy 
 Hess
 Westhampton
@@ -4146,13 +4147,13 @@ Dyck
 Ottawa
 ON
 Canada
-    
+
 Debra 
 Wong
 Thornhill
 ON
 Canada
-    
+
 Lori 
 Eiserman
 Iowa City
@@ -4170,6 +4171,7 @@ Souvorof
 Paris
 INTL
 France
+
 Sawrah 
 Amini
 Northborough
@@ -4205,7 +4207,7 @@ MacLean
 Halifax
 NS
 Canada
-    
+
 Teena 
 Evert
 Boulder
@@ -4385,19 +4387,19 @@ Mah
 Victoria
 BC
 Canada
-    
+
 Fiona 
 Stang
 Vancouver
 BC
 Canada
-    
+
 Joanne 
 Yanke
 Saskatoon
 SK
 Canada
-    
+
 Dirk 
 Bennewitz
 Hamburg
@@ -4530,8 +4532,7 @@ Deerfield
 IL
 USA
 
-SUSA
-n 
+SUSAn 
 Meyers
 Superior
 WI
@@ -4579,8 +4580,7 @@ Wailuku
 HI
 USA
 
-SUSA
-n 
+SUSAn 
 Zimmerman
 New York City
 NY
@@ -4591,13 +4591,13 @@ Stanley
 West Vancouver
 BC
 Canada
-    
+
 Lina 
 Yaroshuk
 Delta
 BC
 Canada
-    
+
 Aimee 
 Stapleford
 Market Harborough
@@ -4741,13 +4741,13 @@ Enfield
 Edmonton
 AB
 Canada
-    
+
 Rameen 
 Peyrow
 Edmonton
 AB
 Canada
-    
+
 Jeannette 
 Steiner
 Baar
@@ -4832,8 +4832,7 @@ Catonsville
 MD
 USA
 
-SUSA
-n 
+SUSAn 
 Hearn
 Burlington
 NC
@@ -4952,19 +4951,19 @@ Burgess
 Dartmouth
 NS
 Canada
-    
+
 Robin 
 Hurlow
 Toronto
 ON
 Canada
-    
+
 Laura 
 Phelps
 Victoria
 BC
 Canada
-    
+
 Marcel 
 Stoeckli
 Basel
@@ -5067,8 +5066,7 @@ Mobile
 AL
 USA
 
-SUSA
-n Yogi Suzi 
+SUSAn Yogi Suzi 
 Grimes
 Willits
 CA
@@ -5181,19 +5179,19 @@ Husch
 Athabasca
 AB
 Canada
-    
+
 Anna 
 Makarova
 Toronto
 ON
 Canada
-    
+
 Mairilyn 
 Yera
 Ottawa
 ON
 Canada
-    
+
 Mayumi 
 Owaki
 Adachi-ku Tokyo
@@ -5201,8 +5199,7 @@ INTL
 Japan
 
 Corinne 
-SUSA
-nek
+SUSAnek
 Zuerich
 INTL
 Switzerland
@@ -5255,8 +5252,7 @@ Jacksonville
 FL
 USA
 
-SUSA
-n 
+SUSAn 
 Duncan
 Beverly
 MA
@@ -5369,19 +5365,19 @@ Erdmann Boyko
 Sherwood Park
 AB
 Canada
-    
+
 Gabriela 
 Husch
 Athabasca
 AB
 Canada
-    
+
 Celeste 
 Mallett Jason
 Salt Spring Island
 BC
 Canada
-    
+
 Yukiko 
 Ishikawa
 Fujisawa Kanagawa
@@ -5567,19 +5563,19 @@ Burlacu
 Gatineau
 QC
 Canada
-    
+
 Marla 
 Ericksen
 Ottawa
 ON
 Canada
-    
+
 Meaghan 
 Hutchings
 St. Johns
 NL
 Canada
-    
+
 Beate 
 Bleif
 Muenchen
@@ -5753,7 +5749,7 @@ Maloney
 Vancouver
 BC
 Canada
-    
+
 Julie 
 Blumenthal
 Berlin
@@ -5789,7 +5785,7 @@ Guru
 Toronto
 Ontario
 Canada
-    
+
 Tracy
 Rickard
 Orlando
