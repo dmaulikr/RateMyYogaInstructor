@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 
+'''
+  this script does not generate the given json
+  json was modified using manual bash/text manipulation
+
+  add keyID variable that generates randon string for the key of yogaInstructor
+'''
+
 import json, sys, string, random
 
 def jsonTheYogaGirls():
