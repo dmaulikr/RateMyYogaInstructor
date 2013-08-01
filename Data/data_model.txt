@@ -1,0 +1,26 @@
+          ---INSTRUCTOR---
+firstName                 - string
+lastName                  - string
+yoga studio (name)        - string
+yoga studio (address)     - string
+yoga studio link          - string
+city                      - string
+state                     - string (2 characters)
+country                   - string
+hot or not                - bool
+picture                   - image
+comments                  - integer (id or link to comments table)
+overall rating            - integer (1,2,3,4 or 5)
+fun                       - integer (1,2,3,4 or 5)
+language                  - integer (1,2,3,4 or 5)
+price per class           - float (e.g. $30.00)
+flexibility/support       - integer (1,2,3,4 or 5)            # (how adapts to student)
+teach breathing           - integer (1,2,3,4 or 5)
+preparedness/punctuality  - integer (1,2,3,4 or 5)
+
+          ---COMMENT---
+id        - integer # this is a key to link to instructor
+text      - string
+likes     - integer
+dislikes  - integer    # if(dislikes > 3 ) => flag,review - inaccurate info 
+                                              / too offensive / bad comment
