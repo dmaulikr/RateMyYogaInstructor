@@ -1,0 +1,6 @@
+grep -ex '<font face="verdana" size="2" color="#000000"> '
+grep -o '<font face="verdana" size="2" color="#000000"> ' * > test.txt
+
+
+<a href="http://thousandpetalsyoga.net" target="_NEW">thousandpetalsyoga.net</a> </font>
+<font face="verdana" size="2" color="#e0e0e0">\n[a-zA-Z0-9 <>/:&]*
